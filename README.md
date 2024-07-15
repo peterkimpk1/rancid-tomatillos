@@ -17,16 +17,16 @@ For Testing:
 
 ## Preview of App:
 [//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.)
+[Working App](https://rancid-tomatillos-aj2lcyd2t-peterkims-projects.vercel.app/)
 ![Imgur magic](https://github.com/user-attachments/assets/03660375-391d-4229-9824-eae691f29ab4)
-The app has a live search function to filter movies based on inclusion of title. 
 
-As can also be seen in this screenshot, the border of each movie presented is dependant on the movie rating. <br>(Under 4: Red, 4 to under 7: Yellow, 7+: Green)
+- The app has a live search function to filter movies based on inclusion of title. 
+- The border of each movie presented is dependant on the movie rating. <br>(Under 4: Red, 4 to under 7: Yellow, 7+: Green)
 
 ## Learning Goals:
 [//]: <> (What were the learning goals of this project? What tech did you work with?)
-The primary learning goal of this project was to build a single app using React and React Router to simulate a multi-page app.  
-
-Technologies across the project involved React, React Router, JSX, Cypress, PropTypes, JS/ES6, and CSS. 
+- The primary learning goal of this project was to build a single app using React and React Router to simulate a multi-page app.  
+- Technologies across the project involved React, React Router, JSX, Cypress, PropTypes, JS/ES6, and CSS. 
 
 
 ## Wins & Challenges 
